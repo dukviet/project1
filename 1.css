@@ -1,0 +1,57 @@
+.container{
+    text-align: center;
+  }
+  body{
+    background-color: grey;
+  }
+  .logo, .nen{
+    text-align: center;
+  }
+
+  
+    .logo { 
+      width: 205px;
+      height: 65px;
+      position: relative;
+      margin-top: 10px;
+      text-align: center;
+    }
+  
+    nav {
+      position: relative;
+      text-align: center;
+    }
+  
+    .nav ul {
+      display: flex;
+      list-style: none;
+      position: relative;
+      margin-top: 25px;
+      text-align: center;
+      justify-content: center;
+    }
+
+    .nav li {
+        margin-left: 60px;
+        font-size: 25px;
+      }
+      
+      .nav a {
+        text-decoration: none;
+        color: #ffffff;
+      }
+      
+      .nav a:hover {
+        color: #f79b07;
+      }
+
+      h51, .h1-style {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 1.5;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        letter-spacing: 0px;
+        text-align: Lato;
+        color: #ffffff;
+    }
