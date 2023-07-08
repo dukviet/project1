@@ -90,17 +90,22 @@
       font-size: 19px;
       text-align: center;
       margin-left: auto;
-      margin-right: auto;
+      margin-right: 19px;
     }
 
     i {
       background-color: #f6f6f6;
-      font-size: 15px;
-      width: 50px;
-      height: 30px;
+      font-size: 12px;
       border-radius: 10%;
+      line-height: 29px;
       text-align: center;
-      vertical-align: middle;
+      position: relative;
+      padding: 15px 20px;
+    }
+
+    i1 {
+      text-align: center;
+      padding: 15px 20px;
     }
 
 
